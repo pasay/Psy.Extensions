@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UnitSet>
+  <Units>
+    <Unit Code="Kütle" Text="Ton" Symbol="T" Multiplier="0,000001"/>
+    <Unit Code="Kütle" Text="Kilogram" Symbol="kg" Multiplier="0,001"/>
+    <Unit Code="Kütle" Text="Hektogram" Symbol="Hg" Multiplier="0,01"/>
+    <Unit Code="Kütle" Text="Gram" Symbol="g" Multiplier="1"/>
+    <Unit Code="Kütle" Text="Karat" Symbol="K" Multiplier="5"/>
+    <Unit Code="Kütle" Text="Santigram" Symbol="cg" Multiplier="100"/>
+    <Unit Code="Kütle" Text="Miligram" Symbol="mg" Multiplier="1000"/>
+    <Unit Code="Kütle" Text="Mikrogram" Symbol="µg" Multiplier="1000000"/>
+    <Unit Code="Kütle" Text="Nanogram" Symbol="ng" Multiplier="1000000000"/>
+
+
+
+    <Unit Code="Uzunluk" Text="Kilometre" Symbol="km" Multiplier="0,001"/>
+    <Unit Code="Uzunluk" Text="Hektometre" Symbol="hm" Multiplier="0,01"/>
+    <Unit Code="Uzunluk" Text="Dekametre" Symbol="dam" Multiplier="0,1"/>
+    <Unit Code="Uzunluk" Text="Metre" Symbol="m" Multiplier="1"/>
+    <Unit Code="Uzunluk" Text="Desimetre" Symbol="dm" Multiplier="10"/>
+    <Unit Code="Uzunluk" Text="Santimetre" Symbol="cm" Multiplier="100"/>
+    <Unit Code="Uzunluk" Text="Milimetre" Symbol="mm" Multiplier="1000"/>
+    <Unit Code="Uzunluk" Text="Mikrometre" Symbol="µm" Multiplier="1000000"/>
+    <Unit Code="Uzunluk" Text="Nanometre" Symbol="nm" Multiplier="1000000000"/>
+    <Unit Code="Uzunluk" Text="Inc" Symbol="in" Multiplier="39,3700787401575"/>
+    <Unit Code="Uzunluk" Text="Fit" Symbol="ft" Multiplier="3,28083989501312"/>
+    <Unit Code="Uzunluk" Text="Yarda" Symbol="yd" Multiplier="1,09361329833771"/>
+    <Unit Code="Uzunluk" Text="Mil" Symbol="mi" Multiplier="0,000621371192237334"/>
+
+
+    <Unit Code="Hacim" Text="Metreküp" Symbol="m³" Multiplier="0,001"/>
+    <Unit Code="Hacim" Text="Desimetreküp" Symbol="dm³" Multiplier="1"/>
+    <Unit Code="Hacim" Text="Santimetreküp" Symbol="cm³" Multiplier="1000"/>
+    <Unit Code="Hacim" Text="Milimetreküp" Symbol="mm³" Multiplier="1000000"/>
+    <Unit Code="Hacim" Text="Hektalitre" Symbol="Hl" Multiplier="0,01"/>
+    <Unit Code="Hacim" Text="Dekalitre" Symbol="Dal" Multiplier="0,1"/>
+    <Unit Code="Hacim" Text="Litre" Symbol="l" Multiplier="1"/>
+    <Unit Code="Hacim" Text="Desilitre" Symbol="dl" Multiplier="10"/>
+    <Unit Code="Hacim" Text="Santilitre" Symbol="cl" Multiplier="100"/>
+    <Unit Code="Hacim" Text="Mililitre" Symbol="ml" Multiplier="1000"/>
+    <Unit Code="Hacim" Text="µicrolitre" Symbol="µl" Multiplier="1000000"/>
+
+
+    <Unit Code="Alan" Text="Kilometre kare" Symbol="km²" Multiplier="0,000001"/>
+    <Unit Code="Alan" Text="Hektar" Symbol="Ha²" Multiplier="0,0001"/>
+    <Unit Code="Alan" Text="Dekar" Symbol="Da²" Multiplier="0,01"/>
+    <Unit Code="Alan" Text="Metre kare" Symbol="m²" Multiplier="1"/>
+    <Unit Code="Alan" Text="Desimetre kare" Symbol="dm²" Multiplier="100"/>
+    <Unit Code="Alan" Text="Santimetre kare" Symbol="cm²" Multiplier="10000"/>
+    <Unit Code="Alan" Text="Milimetre kare" Symbol="mm²" Multiplier="1000000"/>
+
+
+
+    <Unit Code="Kuvvet" Text="Nanonewton" Symbol="nN" Multiplier="1000000000"/>
+    <Unit Code="Kuvvet" Text="Mikronewton" Symbol="µN" Multiplier="1000000"/>
+    <Unit Code="Kuvvet" Text="Milinewton" Symbol="mN" Multiplier="1000"/>
+    <Unit Code="Kuvvet" Text="Newton" Symbol="N" Multiplier="1"/>
+    <Unit Code="Kuvvet" Text="Kilonewton" Symbol="kN" Multiplier="0,001"/>
+    <Unit Code="Kuvvet" Text="Meganewton" Symbol="MN" Multiplier="0,000001"/>
+
+
+    <Unit Code="Tork" Text="Mikronewton metre" Symbol="µN-m" Multiplier="1000000"/>
+    <Unit Code="Tork" Text="Milinewton metre" Symbol="mN-m" Multiplier="1000"/>
+    <Unit Code="Tork" Text="Newton metre" Symbol="Nm" Multiplier="1"/>
+    <Unit Code="Tork" Text="Kilonewton metre" Symbol="kN-m" Multiplier="0,001"/>
+    <Unit Code="Tork" Text="Meganewton metre" Symbol="MN-m" Multiplier="0,000001"/>
+
+
+
+    <Unit Code="Bant Genişliği" Text="Bit bölü saniye" Symbol="bit/s" Multiplier="1000000"/>
+    <Unit Code="Bant Genişliği" Text="Kilobit bölü saniye" Symbol="kbit/s" Multiplier="1000"/>
+    <Unit Code="Bant Genişliği" Text="Megabit bölü saniye" Symbol="Mbit/s" Multiplier="1"/>
+    <Unit Code="Bant Genişliği" Text="Gigabit bölü saniye" Symbol="Gbit/s" Multiplier="0,001"/>
+    <Unit Code="Bant Genişliği" Text="Terabit bölü saniye" Symbol="Tbit/s" Multiplier="0,000001"/>
+    <Unit Code="Bant Genişliği" Text="Kibibit bölü saniye" Symbol="Kibit/s" Multiplier="976,5625"/>
+    <Unit Code="Bant Genişliği" Text="Mebibit bölü saniye" Symbol="Mibit/s" Multiplier="0,9536743164"/>
+    <Unit Code="Bant Genişliği" Text="Gibibit bölü saniye" Symbol="Gibit/s" Multiplier="0,0009313226"/>
+    <Unit Code="Bant Genişliği" Text="Byte bölü saniye" Symbol="B/s" Multiplier="125000"/>
+    <Unit Code="Bant Genişliği" Text="Kilobyte bölü saniye" Symbol="kB/s" Multiplier="125"/>
+    <Unit Code="Bant Genişliği" Text="Megabyte bölü saniye" Symbol="MB/s" Multiplier="0,125"/>
+    <Unit Code="Bant Genişliği" Text="Gigabyte bölü saniye" Symbol="GB/s" Multiplier="0,000125"/>
+    <Unit Code="Bant Genişliği" Text="Kibibyte bölü saniye" Symbol="KiB/s" Multiplier="122,0703125"/>
+    <Unit Code="Bant Genişliği" Text="Mebibyte bölü saniye" Symbol="MiB/s" Multiplier="0,1192092896"/>
+    <Unit Code="Bant Genişliği" Text="Gibibyte bölü saniye" Symbol="GiB/s" Multiplier="0,0001164153"/>
+
+
+    <Unit Code="Veri Depolama" Text="Bit" Symbol="bit" Multiplier="8589934592"/>
+    <Unit Code="Veri Depolama" Text="Nibble" Symbol="Nibble" Multiplier="2147483648"/>
+    <Unit Code="Veri Depolama" Text="Kilobit" Symbol="Kibit" Multiplier="8388608"/>
+    <Unit Code="Veri Depolama" Text="Megabit" Symbol="Mibit" Multiplier="8192"/>
+    <Unit Code="Veri Depolama" Text="Gigabit" Symbol="Gibit" Multiplier="8"/>
+    <Unit Code="Veri Depolama" Text="Terabit" Symbol="Tibit" Multiplier="0,0078125005"/>
+    <Unit Code="Veri Depolama" Text="Petabit" Symbol="Pibit" Multiplier="0,0000076294"/>
+    <Unit Code="Veri Depolama" Text="Byte" Symbol="B" Multiplier="1073741824"/>
+    <Unit Code="Veri Depolama" Text="Kilobyte" Symbol="kB" Multiplier="1048576"/>
+    <Unit Code="Veri Depolama" Text="Megabyte" Symbol="MB" Multiplier="1024"/>
+    <Unit Code="Veri Depolama" Text="Gigabyte" Symbol="GB" Multiplier="1"/>
+    <Unit Code="Veri Depolama" Text="Terabyte" Symbol="TB" Multiplier="0,0009765626"/>
+
+
+    <Unit Code="Kapasitans" Text="Farad" Symbol="F" Multiplier="1000000"/>
+    <Unit Code="Kapasitans" Text="Dekafarad" Symbol="daF" Multiplier="100000"/>
+    <Unit Code="Kapasitans" Text="Hektofarad" Symbol="hF" Multiplier="10000"/>
+    <Unit Code="Kapasitans" Text="Kilofarad" Symbol="kF" Multiplier="1000"/>
+    <Unit Code="Kapasitans" Text="Megafarad" Symbol="MF" Multiplier="1"/>
+    <Unit Code="Kapasitans" Text="Gigafarad" Symbol="GF" Multiplier="0,001"/>
+    <Unit Code="Kapasitans" Text="Terafarad" Symbol="TF" Multiplier="0,000001"/>
+    <Unit Code="Kapasitans" Text="Desifarad" Symbol="dF" Multiplier="10000000"/>
+    <Unit Code="Kapasitans" Text="Santifarad" Symbol="cF" Multiplier="100000000"/>
+    <Unit Code="Kapasitans" Text="Milifarad" Symbol="mF" Multiplier="1000000000"/>
+
+
+    <Unit Code="Endüktans" Text="Nanohenry" Symbol="nH" Multiplier="1000000000"/>
+    <Unit Code="Endüktans" Text="Mikrohenry" Symbol="µH" Multiplier="1000000"/>
+    <Unit Code="Endüktans" Text="Milihenry" Symbol="mH" Multiplier="1000"/>
+    <Unit Code="Endüktans" Text="Henry" Symbol="H" Multiplier="1"/>
+    <Unit Code="Endüktans" Text="Kilohenry" Symbol="kH" Multiplier="0,001"/>
+    <Unit Code="Endüktans" Text="Megahenry" Symbol="MH" Multiplier="0,000001"/>
+    <Unit Code="Endüktans" Text="Gigahenry" Symbol="GH" Multiplier="0,000000001"/>
+
+
+    <Unit Code="Frekans" Text="Nanohertz" Symbol="nHz" Multiplier="1000000000"/>
+    <Unit Code="Frekans" Text="Mikrohertz" Symbol="µHz" Multiplier="1000000"/>
+    <Unit Code="Frekans" Text="Milihertz" Symbol="mHz" Multiplier="1000"/>
+    <Unit Code="Frekans" Text="Hertz" Symbol="Hz" Multiplier="1"/>
+    <Unit Code="Frekans" Text="Kilohertz" Symbol="kHz" Multiplier="0,001"/>
+    <Unit Code="Frekans" Text="Megahertz" Symbol="MHz" Multiplier="0,000001"/>
+    <Unit Code="Frekans" Text="Gigahertz" Symbol="GHz" Multiplier="0,000000001"/>
+
+
+    <Unit Code="Basınç" Text="Megapaskal" Symbol="MPa" Multiplier="0,1"/>
+    <Unit Code="Basınç" Text="Bar" Symbol="Bar" Multiplier="1"/>
+    <Unit Code="Basınç" Text="Kilopaskal" Symbol="kPa" Multiplier="100"/>
+    <Unit Code="Basınç" Text="Hektopascal" Symbol="hPa" Multiplier="1000"/>
+    <Unit Code="Basınç" Text="Milibar" Symbol="mBar" Multiplier="1000"/>
+    <Unit Code="Basınç" Text="Paskal" Symbol="Pa" Multiplier="100000"/>
+
+
+
+    <Unit Code="Elektrik Yükü" Text="Nanocoulomb" Symbol="nC" Multiplier="1000000000"/>
+    <Unit Code="Elektrik Yükü" Text="Mikrocoulomb" Symbol="µC" Multiplier="1000000"/>
+    <Unit Code="Elektrik Yükü" Text="Milicoulomb" Symbol="mC" Multiplier="1000"/>
+    <Unit Code="Elektrik Yükü" Text="Coulomb" Symbol="C" Multiplier="1"/>
+    <Unit Code="Elektrik Yükü" Text="Kilocoulomb" Symbol="kC" Multiplier="0,001"/>
+    <Unit Code="Elektrik Yükü" Text="Megacoulomb" Symbol="MC" Multiplier="0,000001"/>
+    <Unit Code="Elektrik Yükü" Text="Abcoulomb" Symbol="abC" Multiplier="0,1"/>
+    <Unit Code="Elektrik Yükü" Text="Miliamper-saat" Symbol="mAh" Multiplier="0,2777777778"/>
+    <Unit Code="Elektrik Yükü" Text="Amper-saat" Symbol="Ah" Multiplier="0,0002777778"/>
+    <Unit Code="Elektrik Yükü" Text="Faraday" Symbol="F" Multiplier="0,0000103643"/>
+    <Unit Code="Elektrik Yükü" Text="Statcoulomb" Symbol="statC" Multiplier="2997924580"/>
+
+
+    <Unit Code="Elektrik İletkenliği" Text="Nanosiemens" Symbol="nS" Multiplier="1000000000"/>
+    <Unit Code="Elektrik İletkenliği" Text="Mikrosiemens" Symbol="µS" Multiplier="1000000"/>
+    <Unit Code="Elektrik İletkenliği" Text="Milisiemens" Symbol="mS" Multiplier="1000"/>
+    <Unit Code="Elektrik İletkenliği" Text="Siemens" Symbol="S" Multiplier="1"/>
+    <Unit Code="Elektrik İletkenliği" Text="Kilosiemens" Symbol="kS" Multiplier="0,001"/>
+    <Unit Code="Elektrik İletkenliği" Text="Megasiemens" Symbol="MS" Multiplier="0,000001"/>
+    <Unit Code="Elektrik İletkenliği" Text="Gigasiemens" Symbol="GS" Multiplier="0,000000001"/>
+
+
+    <Unit Code="Güç" Text="Miliwatt"  Symbol="mW" Multiplier="1000"/>
+    <Unit Code="Güç" Text="Watt"      Symbol="W"  Multiplier="1"/>
+    <Unit Code="Güç" Text="Kilowatt"  Symbol="kW" Multiplier="0,001"/>
+    <Unit Code="Güç" Text="Megawatt"  Symbol="MW" Multiplier="0,000001"/>
+
+    <Unit Code="Enerji" Text="Milivar"   Symbol="mVAr" Multiplier="1000"/>
+    <Unit Code="Enerji" Text="Var"       Symbol="VAr"  Multiplier="1"/>
+    <Unit Code="Enerji" Text="Kilovar"   Symbol="kVAr" Multiplier="0,001"/>
+    <Unit Code="Enerji" Text="Megavar"   Symbol="MVAr" Multiplier="0,000001"/>
+
+
+    <Unit Code="Aktif Enerji"   Text="Miliwatt Saat"   Symbol="mWh" Multiplier="1000"/>
+    <Unit Code="Aktif Enerji"   Text="Watt Saat"       Symbol="Wh"  Multiplier="1"/>
+    <Unit Code="Aktif Enerji"   Text="Kilowatt Saat"   Symbol="kWh" Multiplier="0,001"/>
+    <Unit Code="Aktif Enerji"   Text="Megawatt Saat"   Symbol="MWh" Multiplier="0,000001"/>
+
+    <Unit Code="Reaktif Enerji" Text="Milivar Saat"   Symbol="mVArh" Multiplier="1000"/>
+    <Unit Code="Reaktif Enerji" Text="Var Saat"       Symbol="VArh"  Multiplier="1"/>
+    <Unit Code="Reaktif Enerji" Text="Kilovar Saat"   Symbol="kVArh" Multiplier="0,001"/>
+    <Unit Code="Reaktif Enerji" Text="Megavar Saat"   Symbol="MVArh" Multiplier="0,000001"/>
+
+
+
+    <Unit Code="Elektrik Potansiyel" Text="Nanovolt" Symbol="nV" Multiplier="1000000000"/>
+    <Unit Code="Elektrik Potansiyel" Text="Mikrovolt" Symbol="µV" Multiplier="1000000"/>
+    <Unit Code="Elektrik Potansiyel" Text="Milivolt" Symbol="mV" Multiplier="1000"/>
+    <Unit Code="Elektrik Potansiyel" Text="Volt" Symbol="V" Multiplier="1"/>
+    <Unit Code="Elektrik Potansiyel" Text="Kilovolt" Symbol="kV" Multiplier="0,001"/>
+    <Unit Code="Elektrik Potansiyel" Text="Megavolt" Symbol="MV" Multiplier="0,000001"/>
+    <Unit Code="Elektrik Potansiyel" Text="Gigavolt" Symbol="GV" Multiplier="0,000000001"/>
+
+
+    <Unit Code="Elektrik Akımı" Text="Nanoamper" Symbol="nA" Multiplier="1000000000"/>
+    <Unit Code="Elektrik Akımı" Text="Mikroamper" Symbol="µA" Multiplier="1000000"/>
+    <Unit Code="Elektrik Akımı" Text="Miliamper" Symbol="mA" Multiplier="1000"/>
+    <Unit Code="Elektrik Akımı" Text="Amper" Symbol="A" Multiplier="1"/>
+    <Unit Code="Elektrik Akımı" Text="Kiloamper" Symbol="kA" Multiplier="0,001"/>
+    <Unit Code="Elektrik Akımı" Text="Megaamper" Symbol="MA" Multiplier="0,000001"/>
+    <Unit Code="Elektrik Akımı" Text="Gigaamper" Symbol="GA" Multiplier="0,000000001"/>
+
+
+    <Unit Code="Elektrik Direnci" Text="Teraohm"  Symbol="TΩ" Multiplier="0,000000000001"/>
+    <Unit Code="Elektrik Direnci" Text="Gigaohm"  Symbol="GΩ" Multiplier="0,000000001"/>
+    <Unit Code="Elektrik Direnci" Text="Megaohm"  Symbol="MΩ" Multiplier="0,000001"/>
+    <Unit Code="Elektrik Direnci" Text="Kiloohm"  Symbol="kΩ" Multiplier="0,001"/>
+    <Unit Code="Elektrik Direnci" Text="Ohm"      Symbol="Ω"  Multiplier="1"/>
+    <Unit Code="Elektrik Direnci" Text="Miliohm"  Symbol="mΩ" Multiplier="1000"/>
+    <Unit Code="Elektrik Direnci" Text="Mikroohm" Symbol="µΩ" Multiplier="1000000"/>
+    <Unit Code="Elektrik Direnci" Text="Nanoohm"  Symbol="nΩ" Multiplier="1000000000"/>
+    <Unit Code="Elektrik Direnci" Text="Pikoohm"  Symbol="pΩ" Multiplier="1000000000000"/>
+
+  </Units>
+
+  <Conversions>
+    <!--Bunu Hepsi için yazmaya gerek yok. Nasıl yazıldığına örnek olması için yapılmıştır.-->
+    <Conversion FromCode="Kütle" ToCode="Kütle" Multiplier="1" />
+    <Conversion FromCode="Enerji" ToCode="Reaktif Enerji" Multiplier="1" />
+    <Conversion FromCode="Güç" ToCode="Aktif Enerji" Multiplier="1" />
+    <!--Bunu Hepsi için yazmaya gerek yok. Nasıl yazıldığına örnek olması için yapılmıştır.-->
+  </Conversions>
+</UnitSet>
+
