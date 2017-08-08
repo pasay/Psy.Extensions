@@ -1577,15 +1577,16 @@ namespace System
                 return 0;
             }
         }
-        public static double ToDoubleDecimalCharacter(this string value)
+        public static double ToDoubleDecimalCharacter(this object value)
         {
-            if (string.IsNullOrEmpty(value.ToString())) return 0;
+            string val = value.ToStringAbs();
+            if (string.IsNullOrEmpty(val)) return 0;
 
             double d = 0.5;
             char c =Convert.ToChar(d.ToString().Substring(1,1));
             try
             {
-                return Convert.ToDouble(value.Replace('.', c).Replace(',', c));
+                return Convert.ToDouble(val.Replace('.', c).Replace(',', c));
             }
             catch
             {

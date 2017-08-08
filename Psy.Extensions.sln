@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psy.Extensions", "Psy.Extensions\Psy.Extensions.csproj", "{83C34CCD-D2B4-4D07-963F-A45F28BA258F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psy.Extensions.Test", "Psy.Extensions.Test\Psy.Extensions.Test.csproj", "{739EF773-F591-4319-A63D-D377BB9A876B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83C34CCD-D2B4-4D07-963F-A45F28BA258F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83C34CCD-D2B4-4D07-963F-A45F28BA258F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83C34CCD-D2B4-4D07-963F-A45F28BA258F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739EF773-F591-4319-A63D-D377BB9A876B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739EF773-F591-4319-A63D-D377BB9A876B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739EF773-F591-4319-A63D-D377BB9A876B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739EF773-F591-4319-A63D-D377BB9A876B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
